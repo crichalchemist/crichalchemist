@@ -1,0 +1,5 @@
+.remember/
+.claude/
+.agents/
+.gemini/
+.DS_Store
