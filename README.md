@@ -19,6 +19,11 @@ A privacy-preserving deep learning framework for modeling transactional behavior
 
 **Stack:** Python, PyTorch, GitHub Actions
 
+### [arscontexta](https://github.com/crichalchemist/arscontexta) (ongoing)
+My fork of [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta), a Claude Code plugin that builds a personal knowledge system from conversation. I'm extending it with adapters for Codex, OpenCode, and Pi, maps of content rebuilt from note metadata, and a CI test suite that runs under both bash and zsh.
+
+**Stack:** Shell, Markdown, Claude Code plugins, GitHub Actions
+
 ### AI agent tooling
 Plugins and harnesses that extend what coding agents like Claude Code can do:
 
